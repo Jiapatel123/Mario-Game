@@ -1,0 +1,43 @@
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+#marioimg {
+    width: 100%;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 2px solid black;
+}
+
+.modal-dailog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+.footer {
+    background-color: lightskyblue;
+    bottom: 0;
+    position: sticky;
+    width: 100%;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+video {
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    margin-top: 50px;
+}
